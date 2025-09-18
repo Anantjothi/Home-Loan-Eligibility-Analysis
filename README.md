@@ -18,9 +18,11 @@ ________________________________________
 ________________________________________
 🔹 Methods / Approach
 1. Data Collection
+   
+Dataset: Loan Prediction Dataset (Kaggle).
 
-•	Dataset: Loan Prediction Dataset (Kaggle).
-•	Contains applicant details like:
+Contains applicant details like:
+
 o	ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term
 o	Credit_History, Gender, Education, Marital Status, Property_Area
 o	Loan_Status (Approved / Rejected)
