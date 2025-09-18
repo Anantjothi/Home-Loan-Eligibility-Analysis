@@ -5,9 +5,9 @@ This project focuses on analyzing the factors that influence home loan eligibili
 
 Banks and financial institutions rely heavily on data-driven decision making. This project demonstrates how a Data Analyst can:
 
-  (i)Clean and preprocess raw financial datasets.
-  (ii)Explore and identify trends in loan approval.
-  (iii)Build a dashboard for business stakeholders to quickly assess key factors affecting loan eligibility.
+  1. Clean and preprocess raw financial datasets.
+  2. Explore and identify trends in loan approval.
+  3. Build a dashboard for business stakeholders to quickly assess key factors affecting loan eligibility.
 ________________________________________
 🔹 Objectives
 
